@@ -3,7 +3,7 @@ class encode
     Scanner sc = new Scanner(System.in);
     private string cCommonElementsBetweenTwoArraysOfIntegers();{
         Try {
-        int size1,size2;
+        Int size1,size2;
         System.out.println("Enter the array1 Size:");
         size1=nextInt();
         int array1 = new int[size1];
