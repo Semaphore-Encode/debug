@@ -39,10 +39,6 @@ class encode
         {
             System.out.println("Error");
         }
-        Catch(ArrayIndexOutOfBoundException e)
-        {
-            Systemout.println("Error")
-        }
     }
      private void ReverseAString(){
         string Str, nstr="";
